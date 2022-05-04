@@ -1,0 +1,9 @@
+2022-05-04 23:08:23.0854|0|DEBUG|WebApi.Program|init main 
+2022-05-04 23:08:24.4250|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://[::]:443 
+2022-05-04 23:08:24.4545|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:80 
+2022-05-04 23:08:24.4684|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-05-04 23:08:24.4803|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-05-04 23:08:24.4958|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /app 
+2022-05-04 23:08:26.9379|0|INFO|WebApi.RequestMiddleware|Query Keys:/weatherforecast 
+2022-05-04 23:08:27.1056|0|INFO|WebApi.Controllers.WeatherForecastController|Tasklar Listelendi 
+2022-05-04 23:08:29.9280|0|INFO|WebApi.RequestMiddleware|Query Keys:/favicon.ico 

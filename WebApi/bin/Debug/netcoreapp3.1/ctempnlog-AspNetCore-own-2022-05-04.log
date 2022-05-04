@@ -1,0 +1,9 @@
+2022-05-04 23:08:23.0854|0|DEBUG|WebApi.Program|init main |url: |action: |WebApi.Program.Main| body: 
+2022-05-04 23:08:24.4250|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://[::]:443 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-05-04 23:08:24.4545|0|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://[::]:80 |url: |action: |Microsoft.AspNetCore.Hosting.GenericWebHostService.StartAsync| body: 
+2022-05-04 23:08:24.4684|0|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-05-04 23:08:24.4803|0|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-05-04 23:08:24.4958|0|INFO|Microsoft.Hosting.Lifetime|Content root path: /app |url: |action: |Microsoft.Extensions.Hosting.Internal.ConsoleLifetime.OnApplicationStarted| body: 
+2022-05-04 23:08:26.9379|0|INFO|WebApi.RequestMiddleware|Query Keys:/weatherforecast |url: https://localhost/weatherforecast|action: |WebApi.RequestMiddleware.Invoke| body: 
+2022-05-04 23:08:27.1056|0|INFO|WebApi.Controllers.WeatherForecastController|Tasklar Listelendi |url: https://localhost/weatherforecast|action: Get|WebApi.Controllers.WeatherForecastController.Get| body: 
+2022-05-04 23:08:29.9280|0|INFO|WebApi.RequestMiddleware|Query Keys:/favicon.ico |url: https://localhost/favicon.ico|action: |WebApi.RequestMiddleware.Invoke| body: 
